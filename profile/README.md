@@ -6,6 +6,7 @@ Howdy there! Fancy seeing you here partner! I assume you'll be here to try and l
 
 But that said! check out our repos in the repositories tab and have a great day!
 
-- check out our guilded at https://guilded.gg/spawnpoint
-- our twitter at https://twitter.com/spawnpointhq
-- and our mastodon at https://mastodon.social/@spawnpoint
+- [Guilded](https://guilded.gg/spawnpoint)
+- [Discord](https://i.ytimg.com/vi/PGDvjG49kLc/maxresdefault.jpg)
+- [Twitter](https://twitter.com/spawnpointhq)
+- [Mastodon](https://mastodon.online/@spawnpoint)
